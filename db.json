@@ -1,0 +1,104 @@
+{
+    "locations": [
+    {
+    "id": 0,
+    "name": "Acme Fresh Start Housing",
+    "city": "Chicago",
+    "state": "IL",
+    "photo": "https://angular.io/assets/images/tutorials/faa/bernard-hermant-CLKGGwIBTaY-unsplash.jpg",
+    "availableUnits": 4,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 1,
+    "name": "A113 Transitional Housing",
+    "city": "Santa Monica",
+    "state": "CA",
+    "photo": "https://angular.io/assets/images/tutorials/faa/brandon-griggs-wR11KBaB86U-unsplash.jpg",
+    "availableUnits": 0,
+    "wifi": false,
+    "laundry": true
+    },
+    {
+    "id": 2,
+    "name": "Jonssons hus",
+    "city": "Juneau",
+    "state": "AK",
+    "photo": "https://www.bostadsdeal.se/LPStreetView/Cache/3505382_550.webp?t=638211919977237280",
+    "availableUnits": 1,
+    "wifi": false,
+    "laundry": false
+    },
+    {
+    "id": 3,
+    "name": "Homesteady Housing",
+    "city": "Chicago",
+    "state": "IL",
+    "photo": "https://angular.io/assets/images/tutorials/faa/ian-macdonald-W8z6aiwfi1E-unsplash.jpg",
+    "availableUnits": 1,
+    "wifi": true,
+    "laundry": false
+    },
+    {
+    "id": 4,
+    "name": "Jonsson lägga",
+    "city": "Gary",
+    "state": "IN",
+    "photo": "https://i.pinimg.com/originals/23/c3/72/23c37251b9b4a3079e45ef7df9482618.jpg",
+    "availableUnits": 1,
+    "wifi": true,
+    "laundry": false
+    },
+    {
+    "id": 5,
+    "name": "Viktor och Simons hus",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://static.cdn-expressen.se/images/3f/2f/3f2f6b051c9844b9999d8cc712af8715/annan/2560.jpg",
+    "availableUnits": 2,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 6,
+    "name": "Seriously Safe Towns",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://angular.io/assets/images/tutorials/faa/phil-hearing-IYfp2Ixe9nM-unsplash.jpg",
+    "availableUnits": 5,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 7,
+    "name": "Hopeful Housing Solutions",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://angular.io/assets/images/tutorials/faa/r-architecture-GGupkreKwxA-unsplash.jpg",
+    "availableUnits": 2,
+    "wifi": true,
+    "laundry": true
+    },
+    {
+    "id": 8,
+    "name": "Seriously Safe Towns",
+    "city": "Oakland",
+    "state": "CA",
+    "photo": "https://angular.io/assets/images/tutorials/faa/saru-robert-9rP3mxf8qWI-unsplash.jpg",
+    "availableUnits": 10,
+    "wifi": false,
+    "laundry": false
+    },
+    {
+    "id": 9,
+    "name": "Capital Safe Towns",
+    "city": "Portland",
+    "state": "OR",
+    "photo": "https://angular.io/assets/images/tutorials/faa/webaliser-_TPTXZd9mOo-unsplash.jpg",
+    "availableUnits": 6,
+    "wifi": true,
+    "laundry": true
+    }
+    ]
+    }
